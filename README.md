@@ -6,4 +6,4 @@ Bài viết này tôi sẽ tập trung nói về việc viết test cho một dr
 
 Trước tiên tôi sẽ tạo ra  một Directive và sử dụng nó xuyên xuốt bài viết để viết test cho nó.
 ...
-xem them tai https://viblo.asia/posts/ZK1ov1ryR5b9
+xem them tai https://viblo.asia/hoang.van.quan/posts/ZK1ov1ryR5b9
